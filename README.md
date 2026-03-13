@@ -95,5 +95,6 @@ Full usage shown without args.
 ---
 ## 📜 License
 - ⚖️ **Usage:** For **educational and legal testing only**. No formal license—use responsibly!
+- https://medium.com/@valachovicvildan94102/the-ultimate-2026-guide-to-the-best-ip-stresser-ip-booter-why-nightmare-stresser-com-734c4ec3d22d
 - 🚫 **Disclaimer:** This **free IP stresser / IP booter 2026** is for ethical testing on owned/permitted systems only. Misuse/illegal use is your responsibility and prohibited!
 ```
